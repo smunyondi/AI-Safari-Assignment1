@@ -1,0 +1,40 @@
+# **AI Gone Wrong: Two Quick Cases and How to Fix Them**
+
+### **The Problem with AI: It's Not Always Fair**
+AI is powerful—but when it's powered by biased data or half-formed assumptions, it can be more damaging than beneficial. Let's examine two real cases where AI was problematic and how to make them better.
+
+---
+## **Case 1: The Biased Hiring Algorithm**
+**What Occurred?**
+A company used an AI tool to screen out job applicants. The algorithmic system systematically rejected female candidates with career interruptions, such as those who had taken breaks to care for children or elderly parents.
+
+**Why It's Dangerous**
+- **Evaluates Discrimination** – The AI likely trained on historical patterns of bias in employment that favored male employment candidates.
+- **Unfair Outcomes** – Trained women were disqualified automatically due to employment gaps.
+- **Lack of Transparency** – The applicants were not informed for what reason they were rejected, and one could not appeal.
+
+**How to Improve It**
+- **Audit the training data** to remove and delete biased patterns.
+- **Introduce human oversight** to verify edge cases before final decisions.
+
+---
+
+## **Case 2: The Dysfunctional Exam Proctoring AI**
+**What Happened?**
+A school employed a cheating-detection system that was using AI and detected students through eye movement. It tended to confuse neurodivergent students (e.g., ADHD or autistic) with being cheaters because their patterns of looking were different from the norm.
+
+**Why It's a Problem**
+- **False Accusations** – Students were disciplined for typical differences in behavior.
+- **Exclusionary Design** – The AI had only one "correct" method of administering a test and disregarded neurodiversity.
+- **Privacy Issues** – Ongoing eye-tracking monitoring raised ethical concerns, particularly among children.
+
+**How to Make It Better**
+- **Increase training data** to encompass various behavioral patterns.
+- **Provide alternative proctoring options**, e.g., human monitors, to students who choose to opt out.
+
+---
+
+### **Key Takeaway: AI Must Be Monitored**
+These situations explain why AI systems must be closely monitored. **Better data, fairness checks, and human accountability** are required to prevent harm.
+
+**Have you ever encountered malfunctioning AI systems? Describe your experience below.**
